@@ -1,6 +1,7 @@
 # C-TicTacToe
 
-Hello Guys, This is TicTacToe Game And This Game Is Made With Using Only C Lenguage.
-This is Fully manually gameplay, there is small table in the output for playing game,and  that table order  is row by row  
-you have to enter position number ,then table updated automatically and show mark at that position.,
+Hello guys, This is TicTacToe game and This game is made with using only C lenguage.
+This is fully manually gameplay, There is small table in the output for playing game,And  That table order is row by row numbers like 123..456..789. 
+You have to enter position number ,Then table updated automatically and show mark at that position.
 1st player mark is 'X' and 2nd player mark is 'O'
+And at the end of game winner player name  has been also displayed.
