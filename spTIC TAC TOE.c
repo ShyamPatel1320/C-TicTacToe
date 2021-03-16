@@ -3,6 +3,7 @@
 void main(){
 	int i,j,t=9,a[4][4],n,d,b[10];
 	for(i=0;i<=3;i++){
+		
 		for(j=0;j<=3;j++){
 			a[i][j]=-1;
 		}
